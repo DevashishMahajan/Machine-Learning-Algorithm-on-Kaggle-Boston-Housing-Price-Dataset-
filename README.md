@@ -6,8 +6,8 @@
 
 #### Size of dataset: 506 rows × 14 columns
 
-##### Column names: crim,	zn,	indus,	chas,	nox,	rm,	age,	dis,	rad,	tax,	ptratio,	black,	lstat,	medv
+Column names: crim,	zn,	indus,	chas,	nox,	rm,	age,	dis,	rad,	tax,	ptratio,	black,	lstat,	medv
 
  
- ##### Feature columns: crim,	zn,	indus, chas, nox, rm,	age, dis, rad, tax, ptratio, black, lstat
- ##### Label column: **medv**
+Feature columns: crim,	zn,	indus, chas, nox, rm,	age, dis, rad, tax, ptratio, black, lstat
+Label column: **medv**
