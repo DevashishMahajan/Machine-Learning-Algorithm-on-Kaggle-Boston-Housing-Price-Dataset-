@@ -10,4 +10,5 @@ Column names: crim,	zn,	indus,	chas,	nox,	rm,	age,	dis,	rad,	tax,	ptratio,	black
 
  
 Feature columns: crim,	zn,	indus, chas, nox, rm,	age, dis, rad, tax, ptratio, black, lstat
+
 Label column: **medv**
